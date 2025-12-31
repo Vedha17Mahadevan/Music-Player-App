@@ -7,4 +7,4 @@ Function
 4) Repeat Song
 
 The Layout Design of Music Player
-![Screenshot](https://ibb.co/yFBSxNRd)
+![Screenshot](https://github.com/Vedha17Mahadevan/Music-Player-App/blob/main/images/Screenshot%202025-12-31%20191348.png)
